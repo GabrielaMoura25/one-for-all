@@ -23,4 +23,4 @@ Na elaboração deste projeto utilizou-se as seguintes ferramentas:
 
 ---
  
-Desenvolvido por [Gabriela Moura](www.linkedin.com/in/gabriela-daniel-moura), © 2022.
+Desenvolvido por [Gabriela Moura](https://www.linkedin.com/in/gabriela-daniel-moura/), © 2022.
