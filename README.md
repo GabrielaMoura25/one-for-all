@@ -1,13 +1,26 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# One for All
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+A [Trybe](https://www.betrybe.com/) é uma escola de tecnologia com foco em formação de Desenvolvedores Web e o projeto One for All foi proposto como atividade de aprimoramento dos estudos sobre desenvolvimento back-end. 
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## Objetivo
+
+O projeto All for One consiste na criação e normalização do banco de dados MySQL SpotifyClone.
+
+## Tecnologias e Ferramentas
+<div>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql"/>
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> 
+</div>
+
+<br>
+
+Na elaboração deste projeto utilizou-se as seguintes ferramentas:
+
+- [Docker](https://www.docker.com/)
+- [MySQL](https://www.mysql.com/)
+
+**Obs.:** os dados para a criação do banco de dados SpotifyClone estão no arquivo `SpotifyClone-Non-NormalizedTable.xlsx`e este foi disponibilizado pela [Trybe](https://www.betrybe.com/)  para a realização deste projeto.
+
+---
+ 
+Desenvolvido por [Gabriela Moura](www.linkedin.com/in/gabriela-daniel-moura), © 2022.
